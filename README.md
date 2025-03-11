@@ -1,7 +1,7 @@
 ![github cover](https://github.com/Syed007Hassan/Syed007Hassan/assets/104893311/dead2d22-a0da-4ab1-8443-c7325b0a057e)
 <!-- 
 
-[![An image of @syed007hassan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syed007hassan)](https://holopin.io/@syed007hassan) -->
+
 
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 <img align="right" alt="GIF" height="220px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
