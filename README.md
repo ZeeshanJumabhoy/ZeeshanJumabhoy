@@ -11,15 +11,15 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ZeeshanJumabhoy?label=Stars">
 </p>
 
-👨‍💻 I’m currently working on Automation Testing using AI and LLMs. 🤖🛠️
-🚀 Additionally, I'm immersing myself in System Design to enhance test architectures. ⚙️
-📚 I’m more interested in Backend technologies and optimizing test automation workflows. 📤
-🔍 Passionate about automating API & UI Testing using Selenium, Jest, JUnit, JMeter, and Appium. 🎯
-💪🏼 Future Goals:
-Contribute to Open-Source testing frameworks. 🌌
-Develop AI-driven Test Automation solutions for efficient software quality. 🤖
-Learn GoLang as a low-latency language to improve automation. ⏱️
-⚡ Fun fact: 🛠️ Automation: Because I’d rather write scripts than click buttons all day!
+- 👨‍💻 I’m currently working on Automation Testing using AI and LLMs. 🤖🛠️
+- 🚀 Additionally, I'm immersing myself in System Design to enhance test architectures. ⚙️
+- 📚 I’m more interested in Backend technologies and optimizing test automation workflows. 📤
+- 🔍 Passionate about automating API & UI Testing using Selenium, Jest, JUnit, JMeter, and Appium. 🎯
+- 💪🏼 Future Goals:
+            - Contribute to Open-Source testing frameworks. 🌌
+            - Develop AI-driven Test Automation solutions for efficient software quality. 🤖
+            - Learn GoLang as a low-latency language to improve automation. ⏱️
+-⚡ Fun fact: 🛠️ Automation: Because I’d rather write scripts than click buttons all day!
 
 <p>
 </p>
