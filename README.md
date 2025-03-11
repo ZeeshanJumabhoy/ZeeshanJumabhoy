@@ -11,14 +11,15 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ZeeshanJumabhoy?label=Stars">
 </p>
 
-- 👨‍💻 I’m currently working on **Automations using AI and LLMs**. 🐦🔧
-- 🚀 Additionally, I'm immersing myself in the art of **System Design**. ⚙️
-- 📚 I’m more interested in **Backend** technologies. 📤
-- 💪🏼 Future Goals:
-    - Dedicate more time to contributing to **Open-Source** technologies. 🌌
-    - Develop Generative AI-based efficient services. 🤖
-    - Learn **GoLang** as a low-latency language. ⏱️
-- ⚡ Fun fact: I love to use **HashMap** and **HashSet**. #️⃣
+👨‍💻 I’m currently working on Automation Testing using AI and LLMs. 🤖🛠️
+🚀 Additionally, I'm immersing myself in System Design to enhance test architectures. ⚙️
+📚 I’m more interested in Backend technologies and optimizing test automation workflows. 📤
+🔍 Passionate about automating API & UI Testing using Selenium, Jest, JUnit, JMeter, and Appium. 🎯
+💪🏼 Future Goals:
+Contribute to Open-Source testing frameworks. 🌌
+Develop AI-driven Test Automation solutions for efficient software quality. 🤖
+Learn GoLang as a low-latency language to improve automation. ⏱️
+⚡ Fun fact: 🛠️ Automation: Because I’d rather write scripts than click buttons all day!
 
 <p>
 </p>
@@ -31,23 +32,23 @@
 
 <div align="center">
 
-[![Syed007Hassan's GitHub | Stats](https://stats.quine.sh/Syed007Hassan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Syed007Hassan)
+[![ZeeshanJumabhoy's GitHub | Stats](https://stats.quine.sh/ZeeshanJumabhoy/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ZeeshanJumabhoy)
 
-[![Syed007Hassan's GitHub | Languages Over Time](https://stats.quine.sh/Syed007Hassan/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Syed007Hassan)
+[![ZeeshanJumabhoy's GitHub | Languages Over Time](https://stats.quine.sh/ZeeshanJumabhoy/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ZeeshanJumabhoy)
 
 </div>
 
 
 <p align="center">  
-<a href="https://github.com/Syed007Hassan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syed007Hassan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Syed007Hassan&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/ZeeshanJumabhoy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZeeshanJumabhoy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZeeshanJumabhoy&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 
 ## ⚡Recent GitHub Activity
  
-  [![Hassan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syed007hassan&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Hassan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZeeshanJumabhoy&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
