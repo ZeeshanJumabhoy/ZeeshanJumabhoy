@@ -16,9 +16,9 @@
 - 📚 I’m more interested in Backend technologies and optimizing test automation workflows. 📤
 - 🔍 Passionate about automating API & UI Testing using Selenium, Jest, JUnit, JMeter, and Appium. 🎯
 - 💪🏼 Future Goals:
-            - Contribute to Open-Source testing frameworks. 🌌
-            - Develop AI-driven Test Automation solutions for efficient software quality. 🤖
-            - Learn GoLang as a low-latency language to improve automation. ⏱️
+  - Contribute to Open-Source testing frameworks. 🌌
+  - Develop AI-driven Test Automation solutions for efficient software quality. 🤖
+  - Learn GoLang as a low-latency language to improve automation. ⏱️
 -⚡ Fun fact: 🛠️ Automation: Because I’d rather write scripts than click buttons all day!
 
 <p>
