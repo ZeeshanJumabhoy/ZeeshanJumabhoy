@@ -26,7 +26,7 @@
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,cpp,c,cs,react,nodejs,spring,express,bootstrap,tailwind,pandas,numpy,selenium,jest,junit,jmeter,appium,cucumber,jira,git,latex,figma,postman,vscode,github,linux,webstorm,notion,idea&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,cpp,c,cs,react,nodejs,spring,express,bootstrap,tailwind,selenium,jest,junit,git,latex,figma,postman,vscode,github,linux,webstorm,notion,idea&theme=dark)](https://skillicons.dev)
 
 ## ⚙️GitHub Analytics
 
