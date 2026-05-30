@@ -11,9 +11,8 @@
   <img src="https://img.shields.io/badge/Lives-Karachi%2C%20Pakistan-00d4ff?style=flat-square" />
 </p>
 
-<img align="right" alt="Cyber Testing GIF" height="280px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
-
 ## 👾 About Me
+<img align="right" alt="Cyber Testing GIF" height="280px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
 
 - 🔭 Currently working as **QA Engineer @ Folio3**
 - 🤖 Building **AI + LLM powered QA automation** systems
